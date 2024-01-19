@@ -1,10 +1,10 @@
-# TreasureHunt-Final
+# Treasure Hunt Final Ödevi
  
 Final versiyonunda yapılanlar;
 
 - Müzik ve ses eklendi.
 
-- Animasyon eklendi.
+- Animasyon(Ara Sahne) eklendi.
 
 - Hatalar düzeltildi.
 
