@@ -1,11 +1,18 @@
 # Treasure Hunt Final Ödevi
+
  
-Final versiyonunda yapılanlar;
+## Final versiyonunda yapılanlar;
 
-- Müzik ve ses eklendi.
+- [X] Müzik ve ses eklendi.
 
-- Animasyon(Ara Sahne) eklendi.
+- [X] Animasyon(Ara Sahne) eklendi.
 
-- Hatalar düzeltildi.
+- [X] Hatalar düzeltildi.
 
-~ Not: Player bazen takılıyor. Bu sorun üzerine çalıştım fakat tam olarak çözemedim. Üzerinde çalışmaya devam edeceğim.
+## Notlar;
+
+- "Player" hareket ederken  bazen takılıyor. Bu sorun üzerine çalıştım fakat tam olarak çözemedim. Zıplayarak sağ veya sol yapıldığında bu sorun geçici olarak düzeliyor. Tam çözüm için üzerinde çalışmaya devam edeceğim.
+
+-  Oyunun ".exe" dosyasına ve baştan-sona oyun içi videosuna [bu bağlantı](https://drive.google.com/drive/folders/1hGzcQV05qdHiXiNu634XXwqPTWF1LMTw?usp=sharing) üzerinden ulaşabilirsiniz.
+
+Teşekkürler :blush:
